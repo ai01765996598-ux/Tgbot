@@ -1,0 +1,20 @@
+{
+    "bot_token": "8220823458:AAFUvSzUcaTjrgfvtIZdR65UvS7WUfLFREo",
+    "admin_username": "BLACK-DEMON",
+    "group_id": -1002402598769,
+    "per_refer": 4,
+    "per_prediction": 4,
+    "referral_system_on": true,
+    "admin_users": [],
+    "super_admin_users": [
+        "8176454781"
+    ],
+    "websites": {
+        "Hgzy": {
+            "login_url": "https://hgzy.example.com"
+        },
+        "Dkwin": {
+            "login_url": "https://dkwin.example.com"
+        }
+    }
+}
